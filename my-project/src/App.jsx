@@ -13,7 +13,7 @@ function App() {
       <Routes>
         <Route path="/" element={<T />} />
         <Route path="/R" element={<R />} />
-        {/* ////////////////////////////////////////////// Shrinath */}
+        {/* ////////////////////////////////////////////// Shri */}
       </Routes>
     </>
   );
