@@ -9,7 +9,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon Backend/App.js",
-    "start": "node Backend/App.js"
+    "start": "node Backend/App.js",
+    "build": "npm install && npm install --prefix my-project && npm run build --prefix my-project"
   },
   "dependencies": {
     "cors": "^2.8.5",
