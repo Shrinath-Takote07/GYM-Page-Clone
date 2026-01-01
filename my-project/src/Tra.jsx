@@ -27,7 +27,8 @@ import {
 } from "lucide-react";
 
 // function T() {
-const API_URL = "http://localhost:5000";
+// https://newrest-g3zc.onrender.com/api/hist
+const API_URL = "https://newrest-g3zc.onrender.com";
 
 function T() {
   const [cart, setCart] = useState([]);
